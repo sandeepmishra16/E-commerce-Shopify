@@ -2,12 +2,6 @@
 
 A modern E-commerce platform designed to provide a seamless online shopping experience. This project showcases a custom storefront with product listings, collections and cart functionality.
 
-## 📸 Screenshots
-
-![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/home-page.png)
-![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/cart-page.png)
-![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/products-page.png)
-
 ## 🚀 Features
 
 -  Carousel using React slick
@@ -18,3 +12,9 @@ A modern E-commerce platform designed to provide a seamless online shopping expe
 ## 🧰 Tech Stack
 
 - React, React-router, JavaScript, CSS, HTML
+
+## 📸 Screenshots
+
+![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/home-page.png)
+![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/cart-page.png)
+![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/products-page.png)
