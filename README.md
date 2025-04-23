@@ -15,7 +15,8 @@ A modern E-commerce platform designed to provide a seamless online shopping expe
 
 ## 📸 Screenshots
 
-| Home Page | Product Page | Cart Page |
-|-----------|--------------|-----------|
-| ![Home](screenshots/home.png) | ![Product](screenshots/product.png) | ![Cart](screenshots/cart.png) |
+![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/home-page.png)
+![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/cart-page.png)
+![image alt](https://github.com/sandeepmishra16/E-commerce-Shopify/blob/9c81e3a88c24740447b0cdbe160bd6e50f053101/products-page.png)
+
 
